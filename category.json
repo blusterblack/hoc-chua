@@ -1,4 +1,4 @@
 {
-  "difficulty":["service","basic undergraduate","begin graduate","advanced graduate","experimental","graduate seminar"],
-  "area":["introductory","hardware system","artificial language","numerical analysis","software system","math foundations","algorithms analysis","interdisciplinary","independent"]
+  "rawDifficulty":["service","basic undergraduate","begin graduate","advanced graduate","experimental","graduate seminar"],
+  "rawArea":["introductory","hardware system","artificial language","numerical analysis","software system","math foundations","algorithms analysis","interdisciplinary","independent"]
 }
