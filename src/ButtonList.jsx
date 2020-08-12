@@ -9,7 +9,7 @@ function ButtonList({ itemList, callback }) {
         key={name}
         name={name}
         isActive={isActive}
-        callback={(name) => { console.log(name); }}
+        callback={(name) => { callback(name); }}
       />
     ));
   return (

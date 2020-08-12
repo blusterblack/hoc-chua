@@ -1644,7 +1644,7 @@
     "Desc": "This seminar will explore the nature of revolutions supported and enabled by technological change, using the Internet and smart phone as two historical examples and focusing on blockchain technology and potential applications such as money, banking, supply chain and market trading. In this project-based course, one meeting per week will bring in new information, including visiting experts. Other class meetings will involve team work, presentations, and discussion. Each student will help lead a section; the class collectively will produce a final book/movie/blog, in a medium selected by the class."
   },
   {
-    "Code": "CS7",
+    "Code": "CS07",
     "Unit": "1",
     "Name": "Personal Finance for Engineers",
     "Desc": "Introduction to the fundamentals and analysis specifically needed by engineers to make informed and intelligent financial decisions. Course will focus on actual industry-based financial information from technology companies and realistic financial issues. Topics include: behavioral finance, budgeting, debt, compensation, stock options, investing and real estate. No prior finance or economics experience required."
@@ -1662,49 +1662,49 @@
     "Desc": "."
   },
   {
-    "Code": "CS80Q",
+    "Code": "CS080Q",
     "Unit": "3",
     "Name": "Race and Gender in Silicon Valley",
     "Desc": "Join us as we go behind the scenes of some of the big headlines about trouble in Silicon Valley. We'll start with the basic questions like who decides who gets to see themselves as \"a computer person,\" and how do early childhood and educational experiences shape our perceptions of our relationship to technology? Then we'll see how those questions are fundamental to a wide variety of recent events from #metoo in tech companies, to the ways the under-representation of women and people of color in tech companies impacts the kinds of products that Silicon Valley brings to market. We'll see how data and the coming age of AI raise the stakes on these questions of identity and technology. How can we ensure that AI technology will help reduce bias in human decision-making in areas from marketing to criminal justice, rather than amplify it?.Same as: AFRICAAM 80Q"
   },
   {
-    "Code": "CS81SI",
+    "Code": "CS081SI",
     "Unit": "1",
     "Name": "AI Interpretability and Fairness",
     "Desc": "As black-box AI models grow increasingly relevant in human-centric applications, explainability and fairness becomes increasingly necessary for trust in adopting AI models. This seminar class introduces students to major problems in AI explainability and fairness, and explores key state-of-theart methods. Key technical topics include surrogate methods, feature visualization, network dissection, adversarial debiasing, and fairness metrics. There will be a survey of recent legal and policy trends. Each week a guest lecturer from AI research, industry, and related policy fields will present an open problem and solution, followed by a roundtable discussion with the class. Students have the opportunity to present a topic of interestnor application to their own projects (solo or in teams) in the final class. Code examples of each topic will be provided for students interested in a particular topic, but there will be no required coding components. Students who will benefit most from this class have exposure to AI, such as through projects and related coursework (e.g. statistics, CS221, CS230, CS229). Students who are pursuing subjects outside of the CS department (e.g. sciences, social sciences, humanities) with sufficient mathematical maturity are welcomed to apply. Enrollment limited to 20."
   },
   {
-    "Code": "CS82SI",
+    "Code": "CS082SI",
     "Unit": "1",
     "Name": "Workshop for Wellness in Tech",
     "Desc": "This course is an interactive seminar focused on tackling and re-framing questions about the intersection of technology and wellness. What are the principles of human flourishing, and what is technology's role in promoting public wellness? How can an appreciation of diversity and inclusion lead to the development of products that make people happier and healthier? How can we mindfully design tech to embrace user stories? Once we've taken a holistic look at the intersection of technology and wellness, we'll invite leaders from industry to speak on how they've put the theory in action. They will help us tackle the question: how do you start and build a venture focused on improving human flourishing? This course will attempt to balance lecture and hands-on activities so that each session both delivers new concepts and serves as a workshop on flourishing - honing your awareness of what makes you tick."
   },
   {
-    "Code": "CS83",
+    "Code": "CS083",
     "Unit": "3",
     "Name": "Playback Theater",
     "Desc": "Playback combines elements of theater, community work and storytelling. In a playback show, a group of actors and musicians create an improvised performance based on the audience's personal stories. A playback show brings about a powerful listening and sharing experience. During the course, we will tell, listen, play together, and train in playback techniques. We will write diaries to process our experience in the context of education and research. The course is aimed to strengthen listening abilities, creativity and the collaborative spirit, all integral parts of doing great science. In playback, as in research, we are always moving together, from the known, to the unknown, and back. There is limited enrollment for this class. Application is required."
   },
   {
-    "Code": "CS84",
+    "Code": "CS084",
     "Unit": "2",
     "Name": "Emotional Intelligence",
     "Desc": "This hands-on course is aimed at Stanford engineers who wish to be successful in start-ups or engineering-focused organizations. It is based on decades of observations by the instructors, witnessing that fresh graduates routinely struggle to survive and create an impact in the corporate world. A key objective is for students to develop a basic set of skills to master day-to-day personal interactions, and to understand the dynamics of work environments. The course then aims to guide students with more complex tasks, such as how to run effective meetings or how to work in multi-disciplinary teams. Whether you wish to become a start-up founder and CEO; a manager at a tech-centric company; or an individual contributor at Facebook or Google: if you wish to hit the ground running and be highly effective from your first day at work, this course is for you!."
   },
   {
-    "Code": "CS9",
+    "Code": "CS09",
     "Unit": "1",
     "Name": "Problem-Solving for the CS Technical Interview",
     "Desc": "This course will prepare students to interview for software engineering and related internships and full-time positions in industry. Drawing on multiple sources of actual interview questions, students will learn key problem-solving strategies specific to the technical/coding interview. Students will be encouraged to synthesize information they have learned across different courses in the major. Emphasis will be on the oral and combination written-oral modes of communication common in coding interviews, but which are unfamiliar settings for problem solving for many students. Prerequisites: CS 106B or X."
   },
   {
-    "Code": "CS91SI",
+    "Code": "CS091SI",
     "Unit": "2",
     "Name": "Digital Canvas: An Introduction to UI/UX Design",
     "Desc": "Become familiar with prototype-design tools like Sketch and Marvel while also learning important design concepts in a low-stress environment. Focus is on the application of UI/UX design concepts to actual user interfaces: the creation of wireframes, high-fidelity mockups, and clickable prototypes. We will look at what makes a good or bad user interface, effective design techniques, and how to employ these techniques using Sketch and Marvel to make realistic prototypes. This course is ideal for anyone with little to no visual design experience who would like to build their skill set in UI/UX for app or web design. Also ideal for anyone with experience in front or back-end web development or human-computer interaction that would want to sharpen their visual design and analysis skills for UI/UX."
   },
   {
-    "Code": "CS93",
+    "Code": "CS093",
     "Unit": "1",
     "Name": "Teaching AI",
     "Desc": "For graduate students who are TA-ing an AI course. This course prepares new AI section leaders to teach, write, and evaluate AI content. In class, you will be evaluating final projects individually and as a group. You will have discussions criticizing papers and assigning grades to them. You will analyze and solve discussion session problems on the board, explain algorithmsnlike backpropagation, and learn how to give constructive feedback to students. The class will also include a guest speaker who will give teaching advice and talk about AI. Focus is on teaching skills, techniques, and final projects grading. The class meets once a week for the first 6 weeks of the quarter."

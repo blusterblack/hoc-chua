@@ -1,10 +1,18 @@
-import React from 'react';
+import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import './Button.css';
 
 function Button({ name, isActive, callback }) {
+  const [isLow, setIsLow] = useState(true);
   return (
-    <button type="button" className={isActive ? '' : 'low-opacity'} onClick={() => { callback(name); }}>
+    <button
+      type="button"
+      className={isLow ? 'low-opacity' : ''}
+      onClick={() => {
+        setIsLow(!isLow);
+        callback(name);
+      }}
+    >
       {name}
     </button>
   );
